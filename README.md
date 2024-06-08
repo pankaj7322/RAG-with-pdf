@@ -1,2 +1,2 @@
-# RAG with pdf
+# RAG implemention with pdf
 ######
